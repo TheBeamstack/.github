@@ -21,8 +21,11 @@ the engine did.**
 | Project | What it is | Status | Licensing |
 |---|---|---|---|
 | **Bunyan** | Browser-native parametric BIM/CAD authoring — an open challenger to Revit | In development | Open source (AGPL-3.0 + commercial) |
+| **SmartBar** | Browser-based parametric rebar detailing — lay out bars in 3D, code-check against BAEL / Eurocode 2 / RPS 2011, export bar-bending schedule / DXF / PDF | In development (alpha) | Open source (AGPL-3.0 + commercial) |
 | **Road-Designer** | BET-grade road-design deliverables (tracé, profil en long, cubatures, PDFs) from terrain + alignment | v1.0 | Source-available (Beamstack Community License) |
 | **Maître d'Ouvrage** | Multi-project management &amp; contractual workflow for construction project owners | In development | Commercial (dedicated-instance option) |
+| **Chantier_Manager** | Operations cockpit for construction SMEs — from the signed contract to on-site progress, progress-billing, cost and cash | Private pilot | Commercial |
+| **Planitor** | Model-driven 4D/5D construction scheduling, earned-value and progress monitoring for small and mid-size contractors | In development (beta) | Commercial |
 | **Miqdar** | Structural &amp; quantities analysis / design, built on the Bunyan model | In development | Commercial |
 | _more in progress_ | | | |
 
