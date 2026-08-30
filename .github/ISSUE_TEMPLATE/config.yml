@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & discussion
+    url: https://github.com/orgs/TheBeamstack/discussions
+    about: Ask a question or discuss an idea before filing an issue.
+  - name: Security vulnerability (private)
+    url: https://github.com/TheBeamstack/.github/blob/main/SECURITY.md
+    about: Do not file security issues publicly — email askdaoudi@gmail.com.
+  - name: Commercial licensing / dedicated instances
+    url: https://beam-stack.com
+    about: For commercial products, dual-licensing, or a client-hosted instance.

@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest a capability or improvement.
+labels: [enhancement]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      placeholder: "e.g. Bunyan"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem you're trying to solve
+      description: Describe the underlying need, not just the feature.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution (optional)
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered (optional)
